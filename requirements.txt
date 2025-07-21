@@ -1,0 +1,7 @@
+flask
+flask-cors
+opencv-python
+matplotlib
+numpy
+zeroconf
+

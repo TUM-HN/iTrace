@@ -1,0 +1,17 @@
+{
+  "pathsToIds" : {
+    "\/RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/GridMaterial.usda" : "CB766F92-EE55-4A63-9401-E7B8C009764D",
+    "\/RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/Immersive.usda" : "65F6F990-A780-4474-B78B-572E0E4E273D",
+    "\/RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/Scene.usda" : "0A9B4653-B11E-4D6A-850E-C6FCB621626C",
+    "\/RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/Untitled Scene.usda" : "D560BB77-AAF3-4BDE-B7C4-989332A4688B",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/GridMaterial.usda" : "66168B71-AB05-424E-8B6C-D33D6E61B08F",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/Immersive.usda" : "AF09ED6F-1707-48FD-8720-65B998362C09",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/Line.usda" : "E53ED6D7-1046-411F-90D7-C948A35C752C",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/Materials\/New Folder 1\/New Folder\/GridMaterial.usda" : "F0C6CF32-8B81-4E0B-B8E6-36D27B1CF851",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/Materials\/Untitled%20Scene.usda" : "70DE76C1-1365-49DD-B63D-906076D1748F",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/Scene.usda" : "D66134B1-3681-4A8E-AFE5-29F257229F3B",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/SphereA.usda" : "7662A9E4-D333-4959-88A5-5FC39A7FEDE3",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/SphereB.usda" : "BBC0F6A6-23CE-451C-82E8-560E9C6F98D1",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/SphereC.usda" : "19262C7E-CFEA-45A4-9405-2FED53C37658"
+  }
+}
