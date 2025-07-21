@@ -296,9 +296,7 @@ def generate_heatmap(video_path, tracking_data):
                 darkened_last = cv2.addWeighted(last_frame, 0.5, np.zeros_like(last_frame), 0.5, 0)
                 final_frame = cv2.addWeighted(darkened_last, 1.0, final_heatmap, 0.8, 0)
                 
-                final_frame_duration = int(fps * 3)
-                for _ in range(final_frame_duration):
-                    out.write(final_frame)
+                out.write(final_frame)
         
         cap.release()
         out.release()
