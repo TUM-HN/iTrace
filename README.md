@@ -11,6 +11,8 @@ An Apple Vision Pro project where you can track your gaze across videos and real
 
 ## Features
 
+**[Watch the full demo video here](https://youtu.be/QbtUBjWWvpc)**
+
 ### Precision Test
 
 A bullseye test where users focus their gaze on the center target and click to capture their accuracy. The average of 5 attempts determines the user's precision score, reflecting how accurately their gaze is calibrated on the Vision Pro.
